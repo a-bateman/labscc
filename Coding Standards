@@ -1,0 +1,8 @@
+Source code contributed to LABS-CC is expected to meet a level of standards
+that will not have detrimental effects to the end user's data, hardware, 
+or software.  Source code should be clearly readable, well documented and 
+written in a safe and secure manner.
+
+Proposed changes to existing source code must include a well thought out
+reason for the change and if applicable proof that the code does not break
+any of the other standards in this form. 
