@@ -1,7 +1,17 @@
 BSD 2-Clause License
 
-Copyright (c) 2021, Andrew Bateman
+Copyright (c) 2021, Andrew Bateman through ABPC
 All rights reserved.
+
+Certification and conforming:
+All code for this system will be released under the BSD 2-Clause License and
+can be used freely.  Redistributions in either binary or modified source of any 
+LABS-CC code cannot claim to be LABS-CC certifited without applying for 
+certification through ABPC.  You may, however, make the claim of being "LABS-CC 
+conforming".  If this claim is made you must include the statement, in a
+conspicuous manner, that it is not certified and may not conform to all standards.
+All certified use of the code, either in binary or source, must include a statement,
+in a conspicuous manner, that the system is LABS-CC certified.
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
